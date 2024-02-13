@@ -1,7 +1,8 @@
 # QA_Generator-Using-NLP
 INPUT TEXT DATA
+![Screenshot (134)](https://github.com/Mahadhanalakshmi123/QA_Generator-Using-NLP/assets/96356800/c347133b-ade9-4334-b328-9c1dd2b7ae4a)
 
-![Screenshot (134)](https://github.com/Mahadhanalakshmi123/QA_Generator-Using-NLP/assets/96356800/dd784d2a-156e-4f7e-a6d9-1ea09f137d7e)
+
 How it Works:
 Input Text:
 Enter any paragraph or text snippet into the provided input box. Our NLP model will analyze the content to extract meaningful information.
@@ -16,8 +17,8 @@ What to Expect:
 Upon submitting your input text and selecting your preferences, our tool will swiftly process the information using state-of-the-art NLP techniques. It will then generate a set of questions and corresponding answers tailored to the content provided. 
 
 QA_GENERATIVE
+![Screenshot (135)](https://github.com/Mahadhanalakshmi123/QA_Generator-Using-NLP/assets/96356800/7e07822a-256d-4045-afc4-f743859af122)
 
-![Screenshot (135)](https://github.com/Mahadhanalakshmi123/QA_Generator-Using-NLP/assets/96356800/2477c81f-dcc9-4c2d-a950-975f7a63b29f)
 These output options provide flexibility and convenience, allowing you to seamlessly integrate the generated questions and answers into your workflow. 
 Print: Easily print the generated questions and answers directly from your browser for offline reference or sharing in physical formats.
 
