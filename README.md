@@ -1,4 +1,4 @@
-# QA_Generator-Using-NL
+# QA_Generator-Using-NLP
 INPUT TEXT DATA
 
 ![Screenshot (134)](https://github.com/Mahadhanalakshmi123/QA_Generator-Using-NLP/assets/96356800/dd784d2a-156e-4f7e-a6d9-1ea09f137d7e)
