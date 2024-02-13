@@ -20,6 +20,7 @@ QA_GENERATIVE
 ![Screenshot (135)](https://github.com/Mahadhanalakshmi123/QA_Generator-Using-NLP/assets/96356800/7e07822a-256d-4045-afc4-f743859af122)
 
 These output options provide flexibility and convenience, allowing you to seamlessly integrate the generated questions and answers into your workflow. 
+
 Print: Easily print the generated questions and answers directly from your browser for offline reference or sharing in physical formats.
 
 Copy: Copy the questions and answers to your clipboard with just one click. This option allows for effortless pasting into documents, presentations, or any other digital platform.
